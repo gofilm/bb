@@ -139,7 +139,21 @@
     }) %>
   <% } %>
 <% } %>
-<div id="valine-container" style="margin: 10px 30px;padding: 20px 10px;background-color: #f3f3f3;">
+<% if (is_post() || post.valine) { %>
+<div id="valine-container">
   <h1 class="article-title">讨论区</h1>
   <div id="valine-comment"></div>
 </div>
+<style>
+  #valine-container {
+    margin: 10px 30px;
+    padding: 20px 10px;
+    background-color: #f3f3f3;
+  }
+  @media screen and (max-width: 800px){
+    #valine-container {
+      margin: 10px 0;
+    }
+  }
+</style>
+<% } %>
