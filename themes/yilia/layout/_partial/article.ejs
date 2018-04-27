@@ -19,8 +19,12 @@
         <% if (!index) { %>
         <br>
         <br>
+        <% if (!post.noTips) { %>
         <span style="color: red;font-size: 14px;font-weight: bolder;">没有你想要的资源？文章底部留言或联系微臣帮您解决</span>
+        <% } %>
+        <% if (!post.noPv) { %>
         <span style="float: right;color: #4e4e4e;font-size: 14px;font-weight: bolder;" id="busuanzi_container_page_pv">已被查看<span id="busuanzi_value_page_pv"></span>次</span>
+        <% } %>
         <% } %>
       <% } %>
       <% if ((theme.reward_type === 2 || (theme.reward_type === 1 && post.reward)) && !index){ %>

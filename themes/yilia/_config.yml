@@ -2,8 +2,8 @@
 
 menu:
   主页: /
-  # 留言: /guest
   归档: /archives
+  留言板: /guest
 
 # SubNav
 subnav:
