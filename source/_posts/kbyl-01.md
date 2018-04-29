@@ -9,7 +9,7 @@ tags:
 ---
 
 <div align=center>
-	<img src="/assets/images/a/gbyl-01/1.jpg" alt="恐怖游轮图1">
+	<img src="/assets/images/a/kbyl-01/1.jpg" alt="恐怖游轮图1">
 </div>
 <!-- more -->
 百度网盘下载链接：
