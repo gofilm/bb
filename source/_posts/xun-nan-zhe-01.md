@@ -7,7 +7,7 @@ tags:
 ---
 
 <div align=center>
-	<img src="/assets/images/a/xunnanzhe-01/1.jpg" alt="殉难者图1">
+	<img src="/assets/images/a/xun-nan-zhe-01/1.jpg" alt="殉难者图1">
 </div>
 <!-- more -->
 百度网盘下载链接：
