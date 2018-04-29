@@ -6,6 +6,7 @@ tags:
   - 恐怖
   - 惊悚
   - 动作
+top: true
 ---
 <div align=center>
     <img src="/assets/images/a/zmwd-all/1.jpg" alt="致命弯道图1">

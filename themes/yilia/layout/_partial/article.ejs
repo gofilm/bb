@@ -63,8 +63,16 @@
       <%if(post.top){%>
         <div class="article-pop-out tagcloud">
           <i class="icon-tuding"></i>
-          <a class="article-tag-list-link color3">置顶</a>
+          <a class="article-tag-list-link color3 article-top">火热</a>
         </div>
+        <style>
+          .tagcloud a.article-top{
+            background: #ce0100;
+          }
+          .tagcloud a.article-top:before{
+            border-right-color: #ce0100;
+          }
+        </style>
       <% } %>
       <%- partial('post/tag') %>
       <%- partial('post/category') %>
