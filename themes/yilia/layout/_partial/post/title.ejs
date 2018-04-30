@@ -5,7 +5,11 @@
 <% } else if (post.title){ %>
   <% if (index){ %>
     <h1 itemprop="name">
+      <% if (post.top){ %>
+      <a class="<%= class_name %>" href="<%- url_for(post.path) %>"><span style="color: red;font-weight: bold">强烈推荐</span><%= post.title %></a>
+      <% } else { %>
       <a class="<%= class_name %>" href="<%- url_for(post.path) %>"><%= post.title %></a>
+      <% } %>
     </h1>
   <% } else { %>
     <h1 class="<%= class_name %>" itemprop="name">

@@ -19,7 +19,7 @@
         <% if (!index) { %>
         <br>
         <% if (!post.noTips) { %>
-        <span style="color: red;font-size: 14px;font-weight: bolder;">没有想要的资源？底部留言把</span>
+        <span style="color: red;font-size: 14px;font-weight: bolder;">没有想要的资源？留言板留言吧</span>
         <% } %>
         <% if (!post.noPv) { %>
         <span style="float: right;color: #4e4e4e;font-size: 14px;font-weight: bolder;" id="busuanzi_container_page_pv">已被查看<span id="busuanzi_value_page_pv"></span>次</span>
@@ -146,7 +146,7 @@
     }) %>
   <% } %>
 <% } %>
-<% if (is_post() || post.valine) { %>
+<% if (post.valine) { %>
 <div id="valine-container">
   <h1 class="article-title">讨论区</h1>
   <div id="valine-comment"></div>
