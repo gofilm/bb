@@ -12,5 +12,4 @@ top: true
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1exSwiLsT4RLrEnuuEOJFMw</b>
-密码：<b>0vt6</b>
+<b>https://pan.baidu.com/s/1bZhB-fgeMyZ2y3aBiBzlbg</b>
