@@ -13,6 +13,7 @@ tags:
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1k7HoaJsiVKR73SmC5MIVWQ</b>
+<b>https://pan.baidu.com/s/1cxFkZZvpmPrPA6xzfZC_xw</b>
+提取码：<b>fu4v</b>
 
 注意: 第1季已全部更新，第2季<span style="color: red">只更新到第2集</span>
