@@ -7,6 +7,9 @@
     </div>
     <div class="mid-col" q-class="show:isShow,hide:isShow|isFalse">
       <%- partial('_partial/mobile-nav', null, {cache: !config.relative_link}) %>
+      <% if (page.layout == 'post'){ %>
+        <%- partial('_partial/mid-ads') %>
+      <% } %>
       <div id="wrapper" class="body-wrap">
         <div class="menu-l">
           <div class="canvas-wrap">
