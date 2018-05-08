@@ -16,4 +16,4 @@ tags:
 <b>https://pan.baidu.com/s/1rw9IUV_MXw_dqpCaLlfIAg</b>
 提取码：<b>nm1m</b>
 
-注意: 第1季已全部更新，第2季<span style="color: red">只更新到第2集</span>
+注意: 第1季已全部更新，第2季<span style="color: red">只更新到第3集</span>
