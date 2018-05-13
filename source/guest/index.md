@@ -3,7 +3,7 @@ title: 访客留言板
 noDate: true
 noTips: true
 noPv: true
-valine: true
+comment: true
 ---
 
 <div align="center">

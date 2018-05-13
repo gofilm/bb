@@ -146,19 +146,31 @@
     }) %>
   <% } %>
 <% } %>
-<% if (post.valine) { %>
-<div id="valine-container">
+<% if (post.comment) { %>
+<div id="comment-container">
   <h1 class="article-title">讨论区</h1>
-  <div id="valine-comment"></div>
+  <!-- 来必力 -->
+  <div id="lv-container" data-id="city" data-uid="MTAyMC8zNjQ2Ni8xMzAwMQ==">
+    <script>
+     (function(d, s) {
+         var j, e = d.getElementsByTagName(s)[0];
+         if (typeof LivereTower === 'function') { return; }
+         j = d.createElement(s);
+         j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+         j.async = true;
+         e.parentNode.insertBefore(j, e);
+     })(document, 'script');
+    </script>
+  </div>
 </div>
 <style>
-  #valine-container {
+  #comment-container {
     margin: 10px 30px;
     padding: 20px 10px;
     background-color: #f3f3f3;
   }
   @media screen and (max-width: 800px){
-    #valine-container {
+    #comment-container {
       margin: 10px 0;
     }
   }
