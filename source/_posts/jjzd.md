@@ -1,0 +1,17 @@
+---
+title: 【寂静之地】 年度惊悚“非凡之作”抢先版 中字
+date: 2018-05-19 22:09:36
+tags:
+  - 惊悚
+  - 恐怖
+top: true
+---
+<div align=center>
+    <img src="/assets/images/a/jjzd/1.jpg" alt="寂静之地图1">
+</div>
+<!-- more -->
+百度网盘下载链接：
+<b>https://pan.baidu.com/s/1N19wQab4hdO8I-LWVcVU1g</b>
+提取码：<b>gixc</b>
+
+注意：目前是<span style="color: red">抢先版</span>
