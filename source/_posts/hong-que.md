@@ -1,10 +1,9 @@
 ---
-title: 【红雀】720P 超清 双语字幕
+title: 【红雀】 720P 超清 双语字幕
 date: 2018-05-12 21:27:11
 tags:
   - 惊悚
   - 悬疑
-top: true
 ---
 <div align=center>
     <img src="/assets/images/a/hong-que/1.jpg" alt="红雀图1">
