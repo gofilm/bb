@@ -11,6 +11,7 @@ tags:
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1TodHzFOPGX6Sq0-BPdNMjA</b>
+<b>https://pan.baidu.com/s/1fkhWeGur24wtTV8DtZC01A</b>
+提取码：<b>wgt9</b>
 
 注意：目前是<span style="color: red">美版中文字幕</span>
