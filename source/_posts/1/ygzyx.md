@@ -7,7 +7,7 @@ tags:
   - 奇幻
 ---
 <div align=center>
-    <img src="/assets/images/a/ygzyx/1.jpg" alt="勇敢者游戏 决战丛林图1">
+    <img src="/assets/images/a/1/ygzyx/1.jpg" alt="勇敢者游戏 决战丛林图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

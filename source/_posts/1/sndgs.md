@@ -6,7 +6,7 @@ tags:
   - 剧情
 ---
 <div align=center>
-    <img src="/assets/images/a/sndgs/1.jpg" alt="使女的故事图1">
+    <img src="/assets/images/a/1/sndgs/1.jpg" alt="使女的故事图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

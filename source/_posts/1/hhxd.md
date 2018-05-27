@@ -8,7 +8,7 @@ tags:
 ---
 
 <div align=center>
-	<img src="/assets/images/a/hhxd-01/1.jpg" alt="红海行动图1">
+	<img src="/assets/images/a/1/hhxd/1.jpg" alt="红海行动图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

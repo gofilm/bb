@@ -6,7 +6,7 @@ tags:
   - 战争
 ---
 <div align=center>
-    <img src="/assets/images/a/fang-hua/1.jpg" alt="芳华图1">
+    <img src="/assets/images/a/1/fang-hua/1.jpg" alt="芳华图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

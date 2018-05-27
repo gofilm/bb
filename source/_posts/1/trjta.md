@@ -9,7 +9,7 @@ tags:
   - 冒险
 ---
 <div align=center>
-    <img src="/assets/images/a/trjta/1.jpg" alt="唐人街探案图1">
+    <img src="/assets/images/a/1/trjta/1.jpg" alt="唐人街探案图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

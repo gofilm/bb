@@ -7,7 +7,7 @@ tags:
   - 奇幻
 ---
 <div align=center>
-    <img src="/assets/images/a/sxwy/1.jpg" alt="水形物语图1">
+    <img src="/assets/images/a/1/sxwy/1.jpg" alt="水形物语图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

@@ -8,7 +8,7 @@ tags:
 ---
 
 <div align=center>
-	<img src="/assets/images/a/shuang-cheng/1.jpg" alt="双程图1">
+	<img src="/assets/images/a/1/shuang-cheng/1.jpg" alt="双程图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

@@ -6,7 +6,7 @@ tags:
   - 剧情
 ---
 <div align=center>
-    <img src="/assets/images/a/hldwm/1.jpg" alt="后来的我们图1">
+    <img src="/assets/images/a/1/hldwm/1.jpg" alt="后来的我们图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

@@ -5,7 +5,7 @@ tags:
   - 爱情
 ---
 <div align=center>
-    <img src="/assets/images/a/zhou-yan/1.jpg" alt="昼颜图1">
+    <img src="/assets/images/a/1/zhou-yan/1.jpg" alt="昼颜图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

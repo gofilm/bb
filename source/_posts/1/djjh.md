@@ -7,7 +7,7 @@ tags:
 ---
 
 <div align=center>
-	<img src="/assets/images/a/djjh-all/1.jpg" alt="电锯惊魂图1">
+	<img src="/assets/images/a/1/djjh/1.jpg" alt="电锯惊魂图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

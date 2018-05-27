@@ -7,7 +7,7 @@ tags:
 top: true
 ---
 <div align=center>
-    <img src="/assets/images/a/yxsl/1.jpg" alt="游侠索罗图1">
+    <img src="/assets/images/a/1/yxsl/1.jpg" alt="游侠索罗图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

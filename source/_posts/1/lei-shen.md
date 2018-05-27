@@ -8,7 +8,7 @@ tags:
   - 科幻
 ---
 <div align=center>
-    <img src="/assets/images/a/lei-shen/1.jpg" alt="雷神3：诸神黄昏图1">
+    <img src="/assets/images/a/1/lei-shen/1.jpg" alt="雷神3：诸神黄昏图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

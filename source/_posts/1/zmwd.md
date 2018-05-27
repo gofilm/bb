@@ -8,7 +8,7 @@ tags:
   - 动作
 ---
 <div align=center>
-    <img src="/assets/images/a/zmwd-all/1.jpg" alt="致命弯道图1">
+    <img src="/assets/images/a/1/zmwd/1.jpg" alt="致命弯道图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

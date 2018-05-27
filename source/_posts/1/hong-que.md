@@ -6,7 +6,7 @@ tags:
   - 悬疑
 ---
 <div align=center>
-    <img src="/assets/images/a/hong-que/1.jpg" alt="红雀图1">
+    <img src="/assets/images/a/1/hong-que/1.jpg" alt="红雀图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

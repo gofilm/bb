@@ -9,7 +9,7 @@ tags:
   - 剧情 
 ---
 <div align=center>
-    <img src="/assets/images/a/xbsj/1.jpg" alt="西部世界图1">
+    <img src="/assets/images/a/1/xbsj/1.jpg" alt="西部世界图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

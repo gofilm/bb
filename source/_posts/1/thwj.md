@@ -7,7 +7,7 @@ tags:
 top: true
 ---
 <div align=center>
-    <img src="/assets/images/a/thwj/1.jpg" alt="头号玩家图1">
+    <img src="/assets/images/a/1/thwj/1.jpg" alt="头号玩家图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

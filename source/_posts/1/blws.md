@@ -7,7 +7,7 @@ tags:
   - 犯罪
 ---
 <div align=center>
-    <img src="/assets/images/a/blws/1.jpg" alt="暴裂无声图1">
+    <img src="/assets/images/a/1/blws/1.jpg" alt="暴裂无声图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

@@ -7,7 +7,7 @@ tags:
 top: true
 ---
 <div align=center>
-    <img src="/assets/images/a/jjzd/1.jpg" alt="寂静之地图1">
+    <img src="/assets/images/a/1/jjzd/1.jpg" alt="寂静之地图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

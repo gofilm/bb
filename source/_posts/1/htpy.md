@@ -5,7 +5,7 @@ tags:
   - 科幻
 ---
 <div align=center>
-    <img src="/assets/images/a/htpy/1.jpg" alt="环太平洋图1">
+    <img src="/assets/images/a/1/htpy/1.jpg" alt="环太平洋图1">
 </div>
 <!-- more -->
 百度网盘下载链接：

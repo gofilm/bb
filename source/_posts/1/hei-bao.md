@@ -7,7 +7,7 @@ tags:
   - 剧情
 ---
 <div align=center>
-    <img src="/assets/images/a/hei-bao/1.jpg" alt="黑豹图1">
+    <img src="/assets/images/a/1/hei-bao/1.jpg" alt="黑豹图1">
 </div>
 <!-- more -->
 百度网盘下载链接：
