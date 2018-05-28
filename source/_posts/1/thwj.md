@@ -11,7 +11,7 @@ top: true
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1wLIqIqcaTj23Jz3K6Qd17Q</b>
-提取码：<b>pprm</b>
+<b>https://pan.baidu.com/s/1-pvC8YhuxMuekjVy0KjVlQ</b>
+提取码：<b>711t</b>
 
 注意: 目前是<span style="color: red">韩版</span>

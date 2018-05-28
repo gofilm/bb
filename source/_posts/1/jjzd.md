@@ -11,7 +11,7 @@ top: true
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1N19wQab4hdO8I-LWVcVU1g</b>
-提取码：<b>gixc</b>
+<b>https://pan.baidu.com/s/1cgrcEZqDK3sgssBJlxdGJg</b>
+提取码：<b>v7ax</b>
 
 注意：目前是<span style="color: red">韩版</span>
