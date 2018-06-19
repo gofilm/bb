@@ -8,8 +8,17 @@ menu:
 
 # SubNav
 subnav:
-  qq: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3228291699'
-  mail: 'mailto:gofilm@qq.com'
+  weixin: 
+    link: 'javascript:;'
+    title: '加我微信'
+    qrcode: /assets/images/weixin.jpg
+  qq:
+    mobile: 'mqqwpa://im/chat?chat_type=wpa&uin=3228291699&version=1&src_type=web&web_src=oicqzone.com'
+    link: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3228291699'
+    title: '加我QQ'
+  mail: 
+    link: 'mailto:gofilm@qq.com'
+    title: '给我发邮件'
 
 rss: /atom.xml
 
