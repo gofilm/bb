@@ -11,7 +11,7 @@ top: true
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1zGUM7_YOZiyBQL1ExgK1_A</b>
-提取码：<b>a4vb</b>
+<b>https://pan.baidu.com/s/1ushWaADCTqV6wKlwneRmaw</b>
+提取码：<b>b22s</b>
 
 注意：目前是<span style="color: red">抢先版</span>

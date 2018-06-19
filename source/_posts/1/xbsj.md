@@ -13,7 +13,7 @@ tags:
 </div>
 <!-- more -->
 百度网盘下载链接：
-<b>https://pan.baidu.com/s/1GEK8AQdrRoo9jQWNRgQHAA</b>
-提取码：<b>zm1n</b>
+<b>https://pan.baidu.com/s/1zp6K0JlKPZ9qg3Q1ub_H3A</b>
+提取码：<b>5vdf</b>
 
-注意: 第1季已全部更新，第2季<span style="color: red">只更新到第5集</span>
+注意: 第1季已全部更新，第2季<span style="color: red">只更新到第7集</span>
