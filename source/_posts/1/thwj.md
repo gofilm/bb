@@ -4,7 +4,6 @@ date: 2018-05-09 20:11:12
 tags:
   - 科幻
   - 冒险
-top: true
 ---
 <div align=center>
     <img src="/assets/images/a/1/thwj/1.jpg" alt="头号玩家图1">
