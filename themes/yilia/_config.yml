@@ -10,7 +10,7 @@ menu:
 subnav:
   weixin: 
     link: 'javascript:;'
-    title: '加我微信'
+    title: '加我微信, 不怕忘记网站, 观影不迷路'
     qrcode: /assets/images/weixin.jpg
   qq:
     mobile: 'mqqwpa://im/chat?chat_type=wpa&uin=3228291699&version=1&src_type=web&web_src=oicqzone.com'
